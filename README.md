@@ -1,1 +1,2 @@
 # CPE223-CompArch
+This repository is for collecting my codes in CPE223 Computer Architecture course, where I'll organize and store my implementations, assignments, and projects related to the concepts and principles covered in the course
