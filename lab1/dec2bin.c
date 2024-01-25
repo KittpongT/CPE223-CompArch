@@ -8,7 +8,7 @@
 
     Team members:
     65070501003 Kittipong Tapyou
-    65070501050 Wonsatorn Sungsilapawech
+    65070501050 Wongsatorn Sungsilapawech
     65070501059 Apichat Aimimpak
 */
 
